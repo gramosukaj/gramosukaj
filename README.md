@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/cover.webp)
+![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/riviere-dans-paysage-forestier-lune-etoiles_104785-165.webp)
 
 **gramosukaj/gramosukaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
