@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/cover.jpg)
 
-<p align="center">[LinkedIn](linkedin.com/in/gramosukaj "LinkedIn") • [Website](https://www.gramosukaj.fr/) • [Codeur](https://www.codeur.com/-gramos-uk)</p>
+<p align="center"><a href="linkedin.com/in/gramosukaj">LinkedIn</a> • <a href="https://www.gramosukaj.fr/">Website</a> • <a href="https://www.codeur.com/-gramos-uk">Codeur</a></p>
 
 Here are some ideas to get you started:
 
