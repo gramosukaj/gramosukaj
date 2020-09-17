@@ -2,6 +2,7 @@
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/cover.jpg)
 
 **gramosukaj/gramosukaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](linkedin.com/in/gramosukaj "LinkedIn")
 
 Here are some ideas to get you started:
 
