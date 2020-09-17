@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/cover.jpg)
 
-[LinkedIn](linkedin.com/in/gramosukaj "LinkedIn") • [Website](https://www.gramosukaj.fr/) • [Codeur](https://www.codeur.com/-gramos-uk)
+<p align="center">[LinkedIn](linkedin.com/in/gramosukaj "LinkedIn") • [Website](https://www.gramosukaj.fr/) • [Codeur](https://www.codeur.com/-gramos-uk)</p>
 
 Here are some ideas to get you started:
 
