@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/cover.webp)
 
 **gramosukaj/gramosukaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
