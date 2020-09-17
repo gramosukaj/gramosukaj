@@ -1,4 +1,4 @@
-# <span align="center">Hi there 👋</span>
+# <center>Hi there 👋</center>
 
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/cover.jpg)
 
