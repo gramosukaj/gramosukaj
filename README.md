@@ -12,3 +12,4 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 - 📫 Contact me at <a href="linkedin.com/in/gramosukaj">@linkedin</a>
 
 ## My skills
+![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/coveri_skills.jpg)
