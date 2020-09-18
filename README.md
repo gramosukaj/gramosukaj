@@ -14,6 +14,9 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 ## My skills
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/coveri_skills.jpg)
 
-## My projects
+## My professional project
 - <a href="https://www.adamcarage.com">Adam CARAGE</a> / Showcase website
 - <a href="https://gramosukaj.fr/prjects/smart-conciergerie">Smart-Conciergerie</a> / Showcase website and back-office management
+
+## My personal project
+- Yeelight Api (@coming soon)
