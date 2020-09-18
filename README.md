@@ -20,3 +20,4 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 
 ## My personal project
 - Yeelight Manager (@coming soon)
+- Workout Creator (@coming soon)
