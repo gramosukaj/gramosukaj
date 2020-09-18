@@ -19,4 +19,4 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 - <a href="https://gramosukaj.fr/prjects/smart-conciergerie">Smart-Conciergerie</a> / Showcase website and back-office management
 
 ## My personal project
-- Yeelight Api (@coming soon)
+- Yeelight Manager (@coming soon)
