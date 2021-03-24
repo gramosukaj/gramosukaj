@@ -7,7 +7,7 @@
 I'm a **junior web & mobile developer** (front & back) based in **France**. What I like about my job is the opportunity than it gives me to **develop my skills** and to **learn more every day**. I'm ready for discussions, making **new project** or anything else.
 
 - 💼 I’m currently working at Freelancer.
-- 🌱 I’m currently studying at distance learning
+- 🌱 I’m currently studying at distance learning (Chef de projet digital, OpenClassrooms)
 - 📋 Discover my <a href="https://gramosukaj.fr/docs/mon_cv.pdf">@Curriculum Vitae</a>
 - 📫 Contact me at <a href="https://linkedin.com/in/gramosukaj">@linkedin</a>
 
