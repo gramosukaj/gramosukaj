@@ -12,6 +12,14 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 - 📫 Contact me at <a href="https://linkedin.com/in/gramosukaj">@linkedin</a>
 
 ## My skills
+- VueJS
+- PHP OOP
+- Javascript vanilla
+- MySql / PostgreSQL / SQLite
+- Sass (scss)
+- Bootstrap / Semantic UI
+- API Rest
+
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/coveri_skills.jpg)
 
 ## My professional projects
