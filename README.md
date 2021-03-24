@@ -24,5 +24,5 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 - <a href="https://smart-conciergerie.fr/">Smart-Conciergerie</a> / Showcase website and back-office management
 
 ## My personal projects
-- <a href="https://github.com/gramosukaj/yeelight_manager">Yeelight Manager</a>
-- <a href="https://github.com/gramosukaj/workout_creator">Workout Creator</a>
+- <a href="https://github.com/gramosukaj/yeelight_manager">Yeelight Manager</a> - Manage Yeelight products through a web interface.
+- <a href="https://github.com/gramosukaj/workout_creator">Workout Creator</a> - Create your bodybuilding program and export it at pdf or img file.
