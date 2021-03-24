@@ -20,4 +20,5 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 
 ## My personal projects
 - Yeelight Manager (@coming soon)
+- <a href="https://github.com/gramosukaj/yeelight_manager">Yeelight Manager</a>
 - Workout Creator (@coming soon)
