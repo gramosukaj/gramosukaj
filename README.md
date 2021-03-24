@@ -15,7 +15,7 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 ![Cover](https://github.com/gramosukaj/gramosukaj/blob/master/img/coveri_skills.jpg)
 
 ## My professional projects
-- <a href="https://gramosukaj.fr/prjects/smart-conciergerie">Smart-Conciergerie</a> / Showcase website and back-office management
+- <a href="https://smart-conciergerie.fr/">Smart-Conciergerie</a> / Showcase website and back-office management
 
 ## My personal projects
 - <a href="https://github.com/gramosukaj/yeelight_manager">Yeelight Manager</a>
