@@ -8,8 +8,8 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 
 - 💼 I’m currently working at Freelancer.
 - 🌱 I’m currently studying at distance learning (Chef de projet digital, OpenClassrooms)
-- 📋 Discover my <a href="https://gramosukaj.fr/docs/mon_cv.pdf">@Curriculum Vitae</a>
-- 📫 Contact me at <a href="https://linkedin.com/in/gramosukaj">@linkedin</a>
+- 📋 Discover my <a href="https://gramosukaj.fr/wp-content/uploads/2021/04/cv.pdf">@Curriculum Vitae</a>
+- 📫 Contact me at <a href="https://linkedin.com/in/gramosukaj">@linkedin</a> or <a href="https://twitter.com/gramosukaj1">@twitter</a>
 
 ## My skills
 - VueJS
