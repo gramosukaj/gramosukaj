@@ -18,5 +18,6 @@ I'm a **junior web & mobile developer** (front & back) based in **France**. What
 - Sass - Bootstrap - TailwindCSS
 
 ## My personal projects
-- <a href="https://github.com/gramosukaj/yeelight_manager">Yeelight Manager</a> - Manage Yeelight products through a web interface (old).
-- <a href="https://github.com/gramosukaj/workout_creator">Workout Creator</a> - Create your bodybuilding program and export it at pdf or img file.
+- <a href="https://github.com/gramosukaj/kcorp-wallpaper-generator">KCORP wallpaper generator</a> - Generate mobile wallpaper based on <a href="https://twitter.com/KarmineCorp">KCORP</a> template.
+- <a href="https://github.com/gramosukaj/workout_creator">Workout Creator</a> - Create your bodybuilding program and export it at pdf or img file (In progress).
+- <a href="https://github.com/gramosukaj/yeelight_manager">Yeelight Manager</a> - Manage Yeelight products through a web interface (old php code...).
