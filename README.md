@@ -11,10 +11,5 @@ I'm a **web & mobile developer** (front & back) based in **France**. What I like
 - 📫 Contact me at <a href="https://linkedin.com/in/gramosukaj">@linkedin</a> or <a href="https://twitter.com/gramosukaj1">@twitter</a>
 
 ## My skills
-- Reactjs - React Native
-- Nestjs - TypeScript - Prisma - MongoDB - Graphql
-
-## My projects
-- <a href="https://github.com/gramosukaj/workout_creator">Workout Creator</a> - Create your bodybuilding program and export it at pdf or img file (In progress).
-- <a href="https://github.com/gramosukaj/war-card-game">War Card Game</a> - To win, you need to add,substract or multiply a random number until you reach the goal to win.
-- <a href="https://github.com/gramosukaj/kcorp-wp-generator-front">KCORP Wallpaper generator</a> - Generate mobile wallpaper based on <a href="https://twitter.com/KarmineCorp">KCORP</a> template.
+- ReactJS - React Native - Next.js - Mobx-state-tree
+- NestJS - TypeScript - Prisma - MongoDB - Postresql
